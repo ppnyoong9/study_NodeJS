@@ -19,14 +19,10 @@ const userSchema = mongoose.Schema({
     default: 0,
   },
   image: String,
-  token: {
-    type: String,
-  },
-  tokenExp: {
-    type: Number,
-  },
+  token: String,
+  tokenExp: Number,
 });
 
-const user = mongoose.model("User", userSchema);
+const User = mongoose.model("User", userSchema);
 
-export {user};
+export { User };
