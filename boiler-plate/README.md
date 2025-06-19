@@ -20,9 +20,6 @@ vs code 터미널에서도 동일 적용 가능 ( 굳이, 운영체제 내 터�
 
 설치링크:  https://nodejs.org/en
     
-강의 로드맵: 
-    
-  ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5fa21725-9413-499f-878a-83fe8354406a/dac265c0-a9c5-45ff-9417-a1a5b417e22e/image.png)
     
 </br></br>
 
